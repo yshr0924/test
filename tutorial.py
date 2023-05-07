@@ -3,3 +3,4 @@ b = a + 2
 print(b)
 print(a + b)
 print('hello')
+print('new')
